@@ -3,7 +3,10 @@
 **`Software Developer / Data Analyst Enthusiast`**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7591614/197892896-f5daba1c-0dc3-4381-a999-33e83eb59120.png" alt="Just a meme"/>
+  <img src="https://user-images.githubusercontent.com/7591614/197892896-f5daba1c-0dc3-4381-a999-33e83eb59120.png" 
+  alt="Just a meme"
+  width=400
+  height=500/>
 </p>
 
 
