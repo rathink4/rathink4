@@ -4,6 +4,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/7591614/197886345-55037c67-192f-423d-81b4-99132fca0ded.png)
+
 I maybe dumb, but I am not stupid.
 ### Couple of things you should know about me
 --> Currently a Master of Science CS student at The University of Texas at Dallas.
