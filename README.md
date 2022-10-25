@@ -3,9 +3,9 @@
 **`Software Developer / Data Analyst Enthusiast`**
 
 
-![image](https://user-images.githubusercontent.com/7591614/197886345-55037c67-192f-423d-81b4-99132fca0ded.png)
+![It's just a joke](https://user-images.githubusercontent.com/7591614/197886345-55037c67-192f-423d-81b4-99132fca0ded.png)
 
-Suckin at something is the first step to being sorta good at something.
+<em>Suckin at something is the first step to being sorta good at something.<em>
 
 
 ### Couple of things you should know about me
