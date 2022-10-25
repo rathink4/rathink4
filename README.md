@@ -8,7 +8,7 @@
 #### <em>Suckin at something is the first step to being sorta good at something.</em>
 
 
-### Couple of things you should know about me
+## Couple of things you should know about me
 I'm currently a Master of Science CS student at The University of Texas at Dallas. I recently finished my undergrad in Bachelor's of Engineering in Computer Science from Birla Insititute of Technology & Science, Pilani, Dubai Campus. I am spending my time either coding something or cooking and I like watching One Piece. Future Plans - Coding some projects, creating content by making a personal blog, improve my Github profile.
 
 ---
