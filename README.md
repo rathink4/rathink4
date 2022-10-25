@@ -2,8 +2,10 @@
 
 **`Software Developer / Data Analyst Enthusiast`**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7591614/197892896-f5daba1c-0dc3-4381-a999-33e83eb59120.png" alt="Just a meme"/>
+</p>
 
-![It's just a joke](https://user-images.githubusercontent.com/7591614/197886345-55037c67-192f-423d-81b4-99132fca0ded.png)
 
 #### <em>Suckin at something is the first step to being sorta good at something.</em>
 
