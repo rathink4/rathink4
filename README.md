@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/7591614/197886345-55037c67-192f-423d-81b4-99132fca0ded.png)
 
-Sucking at something is the first step to being sorta good at something.
+Suckin at something is the first step to being sorta good at something.
 
 
 ### Couple of things you should know about me
