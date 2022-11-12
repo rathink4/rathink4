@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **Node.Js, MongoDb, React.Js, Next.Js**
+- 🌱 I’m currently learning **Node.Js, MongoDB, React.Js, Next.Js**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
