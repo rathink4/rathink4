@@ -18,7 +18,7 @@
 
 - 📫 Reach me through my email: **rathink4@gmail.com**
 
-- ⚡ Fun fact **I love One Piece**
+- ⚡ Fun fact **I love watching One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
