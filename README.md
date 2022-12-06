@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Rathin Kamble</h1>
 <h3 align="center">Coding my way through life!</h3>
 
-- 🔭 I’m currently working on **portfolio website**
+- 🔭 I’m currently working on **Full stack projects.**
 
-- 🌱 I’m currently learning **Node.Js, MongoDB, React.Js, Next.Js**
+- 🌱 I’m currently learning **System Design and Embedded Systems.**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
