@@ -29,6 +29,3 @@
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathink4&show_icons=true&locale=en&theme=tokyonight" alt="rathink4" /></p>
-
----
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rathink4&" alt="rathink4" /></p>
