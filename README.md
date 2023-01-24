@@ -1,28 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e4779qger3n332pvabm4mcwh1wwd15g5l35c6gksq5u&rid=giphy.gif&ct=g" 
-       width="1000"
-       height="250"/>
-</div>
-<h1 align="center">Hi 👋, I'm Rathin Kamble</h1>
-<h3 align="center">Coding my way through life!</h3>
+# Hi 👋, I'm Rathin Kamble
+
+I am currently doing my **Masters in Computer Science** as graduate student at `University of Texas at Dallas`. I have a **Bachelors of Engineering degree in Computer Science** from `BITS Pilani, Dubai`. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 - 🔭 I’m currently working on **Full stack projects.**
 
-- 🌱 I’m currently learning **System Design and Embedded Systems.**
+- 🌱 I’m currently learning **System Design and Distributed Systems.**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **backend microservices with Kubernetes, Docker**
+- 🤝 I’m looking for help with **backend microservices with Docker, Express-Session, Redis**
 
 - 📫 Reach me through my email: **rathink4@gmail.com**
 
 - ⚡ Fun fact **I love watching One Piece**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rathin-kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathink4" height="30" width="40" /></a>
 <a href="https://instagram.com/rathink4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rathink4" height="30" width="40" /></a>
 </p>
+
+---
+
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -41,7 +41,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
----
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rathink4&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
