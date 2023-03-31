@@ -23,6 +23,7 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 
 
 ## Skills
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
