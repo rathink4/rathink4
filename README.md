@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rathin Kamble
 
-I am currently doing my **Masters in Computer Science** as graduate student at `University of Texas at Dallas`. I have a **Bachelors of Engineering degree in Computer Science** from `BITS Pilani, Dubai`. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am currently doing my **Masters in Computer Science** as graduate student at `University of Texas at Dallas`. I have a **Bachelors of Engineering degree in Computer Science** from `BITS Pilani, Dubai`. To see my profile in detail, I recommend checking my LinkedIn profile.
 
 - 🔭 I’m currently working on **Full stack projects.**
 
@@ -10,7 +10,7 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 
 - 🤝 I’m looking for help with **backend microservices with Docker, Express-Session, Redis**
 
-- 📫 Reach me through my email: **rathink4@gmail.com**
+- 📫 Reach me through my email: **rathin.kamble20@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
