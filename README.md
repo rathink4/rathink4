@@ -32,7 +32,6 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,7 +43,7 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rathink4&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rathink4&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathink4&hide=TeX&layout=compact&theme=prussian)
 
