@@ -12,7 +12,7 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 
 - 📫 Reach me through my email: **rathin.kamble20@gmail.com**
 
-- 👀 Check out my blog: [Coding Blog](https://rathink4.github.io/)
+- 👀 Check out my blog: [Coding Blog | Rathin Kamble](https://rathink4.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
