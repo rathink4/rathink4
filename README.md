@@ -2,7 +2,7 @@
 
 I am currently doing my **Masters in Computer Science** as graduate student at `University of Texas at Dallas`. I have a **Bachelors of Engineering degree in Computer Science** from `BITS Pilani, Dubai`. To see my profile in detail, I recommend checking my LinkedIn profile.
 
-- 🔭 I’m currently working on **Full stack projects.**
+- 🔭 I’m currently working on **Microservices-oriented projects.**
 
 - 🌱 I’m currently learning **System Design and Distributed Systems.**
 
