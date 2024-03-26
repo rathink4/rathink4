@@ -26,7 +26,7 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 
 ## Skills
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=for-the-badge&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/-Terraform-orange?style=for-the-badge&logo=terraform)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
