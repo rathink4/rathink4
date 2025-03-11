@@ -1,26 +1,21 @@
 # Hi 👋, I'm Rathin Kamble
 
-I am currently doing my **Masters in Computer Science** as graduate student at `University of Texas at Dallas`. I have a **Bachelors of Engineering degree in Computer Science** from `BITS Pilani, Dubai`. To see my profile in detail, I recommend checking my LinkedIn profile.
+**MSc in Computer Science** graduate student - `University of Texas at Dallas`.
 
-- 🔭 I’m currently working on **building an AWS serverless chat app.**
+**BE in Computer Science** undergrad - `BITS Pilani, Dubai`.
 
-- 🌱 I’m currently learning **System Design and Distributed Systems.**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+My interests lie in the domain of **Software Engineering** and **AI**. 
 
-- 🤝 I’m looking for help with **backend microservices with Docker, Express-Session, Redis**
+I am working on exciting personal projects in my spare time which combine my two interests. I am sure, you will be able to find some of them in my GitHub profile.
 
-- 📫 Reach me through my email: **rathin.kamble20@gmail.com**
 
-- 👀 Check out my blog: [AlgoSphere | Rathin Kamble](https://rathink4.github.io/)
+## Connect with me
 
-<!-- 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rathin-kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathink4" height="30" width="40" /></a>
-<a href="https://instagram.com/rathink4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rathink4" height="30" width="40" /></a>
-</p>-->
----
+<a href="https://linkedin.com/in/krathinsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathink4" height="30" width="40" /></a>
+<a href="https://substack.com/@rathinkamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rathink4" height="30" width="40" /></a>
+</p>
 
 
 ## Skills
@@ -46,7 +41,7 @@ I am currently doing my **Masters in Computer Science** as graduate student at `
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rathink4&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rathink4&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathink4&hide=TeX&layout=compact&theme=prussian)
 
